@@ -1,0 +1,6 @@
+C:\Users\P501\Documents\Visual Studio 2017\Projects\Taxi\Taxi\bin\Debug\Taxi.exe.config
+C:\Users\P501\Documents\Visual Studio 2017\Projects\Taxi\Taxi\bin\Debug\Taxi.exe
+C:\Users\P501\Documents\Visual Studio 2017\Projects\Taxi\Taxi\bin\Debug\Taxi.pdb
+C:\Users\P501\Documents\Visual Studio 2017\Projects\Taxi\Taxi\obj\Debug\Taxi.csprojResolveAssemblyReference.cache
+C:\Users\P501\Documents\Visual Studio 2017\Projects\Taxi\Taxi\obj\Debug\Taxi.exe
+C:\Users\P501\Documents\Visual Studio 2017\Projects\Taxi\Taxi\obj\Debug\Taxi.pdb
