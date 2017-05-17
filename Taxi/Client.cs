@@ -78,11 +78,10 @@ namespace Taxi
         }
         public double CheckDistance()
         {
-            int distance;
-            distance = (EndCoordX - StartCoordX) * (EndCoordX - StartCoordX) + (EndCoordY - StartCoordY) * (EndCoordY - StartCoordY);
+            double distance;
+            distance = Math.Pow((EndCoordX - StartCoordX),2) + Math.Pow((EndCoordY - StartCoordY),2);
             double realDistance = Math.Sqrt(distance);
             return realDistance;
-            Console.WriteLine(realDistance);
         }
     }
 }
